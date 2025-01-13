@@ -9,7 +9,7 @@ Hi, I'm Afnan! I have an analytical background in Statistics and am currently an
 
 I'm Bangkit Academy 2024 graduation for Machine Learning Path. Mastery of Data Analytics Tools by Completing the data analytics Coursera Google Data Analytics course with Excel, SQL, Python, R, and Tableau tools. Real-Study Cases: Complete the Study Case Coursera Google Data Analytics course and obtain a Bagde Certificate of Completion. Also Real-World Application through Capstone Project by Processing the final capstone project dataset using python.
 
-My CV in [**(PDF)**](Afnan CV.pdf) 
+My CV in [**(PDF)**](https://github.com/Afnanaz/Data-Analyst-Portfolio/blob/main/Afnan%20CV.pdf) 
 
 ---
 
